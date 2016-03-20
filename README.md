@@ -5,6 +5,5 @@
 *  Watch this game being coded live on twitch
 
 * https://www.twitch.tv/themikedx/v/55417881
-* 
 
-!(http://i.imgur.com/V8AQCAe.gif "Game Preview")
+(http://i.imgur.com/V8AQCAe.gif "Game Preview")
